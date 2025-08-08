@@ -1,1 +1,3 @@
-
+#Learning HDL Verification Progress Report
+##August 8th 2025
+Today is the first day of tracking how much progress I have made in regards to improving my Verification Skills. The main reason why I am doing this in the first place was because while taking ECE 411 at UIUC during my undergrad, I realized that my command of SystemVerilog, especially when it came to making testbenches and using them to debug, was a lot lower than I originally thought it was. My overall performance in that course left a sour taste in my mouth, especially when I know I am capable of doing a lot better. Additionally, computer architecture and SystemVerilog in general comes off as pretty interesting to me which is why I want to dive deeper into the world of HDL and see firsthand what more there is to learn.
